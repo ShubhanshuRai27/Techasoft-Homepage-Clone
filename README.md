@@ -5,7 +5,7 @@ Small section clone of techasoft homepage.
 ### Technologies Used :
 1. HTML5
 1. CSS3
-1. Javascript
+1. Javascript (just for initialization)
 
 ---
 
